@@ -1,0 +1,11 @@
+ATG_Ref,ATG_HDR_Ref,ATG_DTL_Ref,G72_Allowance_Or_Charge_Code,G72_Allowance_Or_Charge_Code_Description,G72_Allowance_Or_Charge_Method_Of_Handling_Code,G72_Allowance_Or_Charge_Method_Of_Handling_Code_Description,G72_Allowance_Or_Charge_Rate,G72_Allowance_Or_Charge_Quantity,G72_Unit_Basis_For_Measurement_Code,G72_Unit_Basis_For_Measurement_Code_Description,G72_Allowance_Or_Charge_Total_Amount,G73_Free_Form_Description
+1,21,116,5,Allowance Non-Performance,02,Off Invoice,2.6,,,,,EDLP  
+2,21,117,5,Allowance Non-Performance,02,Off Invoice,3.72,,,,,EDLP  
+3,21,118,5,Allowance Non-Performance,02,Off Invoice,2.6,,,,,EDLP  
+4,21,119,5,Allowance Non-Performance,02,Off Invoice,2.6,,,,,9115 EDLP ALLOWANCE  
+5,21,120,5,Allowance Non-Performance,02,Off Invoice,2.08,,,,,EDLP  
+6,22,121,51,Trade Discount,02,Off Invoice,,40.0,CA,Case,1296.0,TRACE DIS - EDLP/C
+7,22,122,51,Trade Discount,02,Off Invoice,,40.0,CA,Case,235.2,TRACE DIS - EDLP/C
+8,23,125,51,Trade Discount,02,Off Invoice,,28.0,CA,Case,907.2,TRACE DIS - EDLP/C
+9,23,126,51,Trade Discount,02,Off Invoice,,60.0,CA,Case,352.8,TRACE DIS - EDLP/C
+10,23,127,51,Trade Discount,02,Off Invoice,,162.0,CA,Case,803.52,TRACE DIS - EDLP/C
