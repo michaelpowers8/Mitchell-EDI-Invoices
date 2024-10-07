@@ -1,2 +1,2 @@
 # Mitchell-EDI-Invoices
-EDI 880 invoices are very precise and require very close attention to detail to grow an understanding about 
+EDI 880 invoices are very precise and require very close attention to detail. The format PDF provided explains exactly how these invoices are formatted. However, once you have the raw data, there are potentially thousands of unique codes that are used throughout the invoices that need to be translated. Those codes can be found here https://www.kasoftware.com/schema/edi/x12/00401/messages/880/ and are programmed for utilization in the file edi_codes.py
