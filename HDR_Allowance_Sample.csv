@@ -1,0 +1,11 @@
+ATG_Ref,ATG_HDR_Ref,G72_Allowance_Or_Charge_Code,G72_Allowance_Or_Charge_Code_Description,G72_Allowance_Or_Charge_Method_Of_Handling_Code,G72_Allowance_Or_Charge_Method_Of_Handling_Code_Description,G72_Allowance_Or_Charge_Rate,G72_Allowance_Or_Charge_Quantity,G72_Unit_Basis_For_Measurement_Code,G72_Unit_Basis_For_Measurement_Code_Description,G72_Allowance_Or_Charge_Total_Amount,G73_Free_Form_Description
+1,4,58,Unsaleable Merchandise Allowance,02,Off Invoice,,,,,129.2,UNSALEABLES 
+2,5,5,Allowance Non-Performance,02,Off Invoice,,,,,61.78,DAMAGE ALLOW % NET
+3,6,5,Allowance Non-Performance,02,Off Invoice,,,,,57.57,DAMAGE ALLOW % NET
+4,7,54,Pickup Allowance,02,Off Invoice,,,,,288.0,
+5,8,54,Pickup Allowance,02,Off Invoice,,,,,288.0,
+6,9,54,Pickup Allowance,02,Off Invoice,,,,,282.24,
+7,10,54,Pickup Allowance,02,Off Invoice,,,,,293.76,
+8,11,54,Pickup Allowance,02,Off Invoice,,,,,288.0,
+9,12,54,Pickup Allowance,02,Off Invoice,,,,,288.0,
+10,13,54,Pickup Allowance,02,Off Invoice,,,,,288.0,
